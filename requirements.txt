@@ -1,0 +1,9 @@
+# Versions the printed edition was produced with are given in the README.
+# Newer versions should work.
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.9
+cvxpy>=1.5
+torch>=2.3
+ortools>=9.10
+pymoo>=0.6
